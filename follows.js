@@ -14,7 +14,7 @@
 
 	var defaultKey		= 'vfGhRNg0dyRJfB1n8MmnnQ780dyrKiFLluiqIGZhg4mdCg7N', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [971274842], // Comma separated array of Xively Feed ID numbers
-		applicationName	= 'Geir hjemme', // Replaces Xively logo in the header
+		applicationName	= 'Tine Temp-test', // Replaces Xively logo in the header
 		dataDuration	= '', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 0, // Default interval for data to be displayed (in seconds)
 		dataColor		= '', // CSS HEX value of color to represent data (omit leading #)
